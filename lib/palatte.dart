@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'models/category.dart';
+
 const TextStyle rHeading = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.bold,
